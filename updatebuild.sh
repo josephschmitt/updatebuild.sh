@@ -1,5 +1,5 @@
 #!/bin/bash
-# Sample usage: ./updatebuild.sh path/to/xcode/workspace build/file.txt 
+# Sample usage: ./updatebuild.sh path/to/plist/file build/file.txt 
 
 PLIST=$1
 FILE=$2
