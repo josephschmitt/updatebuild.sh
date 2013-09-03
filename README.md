@@ -6,4 +6,4 @@ Simple bash script that sets the build number on an Xcode project to whatever va
 Usage
 =====
 
-source updatebuild.sh path/to/plist/file.plist build/file.txt
+`source updatebuild.sh path/to/plist/file.plist build/file.txt`
